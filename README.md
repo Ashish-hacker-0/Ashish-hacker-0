@@ -1,4 +1,4 @@
-<img src="https://image.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg"/>
+<img src="https://image.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg" style="alignSelf:'center'"/>
 
 
 - 👋 Hi, I’m Ashish Kumar
