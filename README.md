@@ -2,13 +2,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7E830&size=30&vCenter=true&lines=Hi%2C+I'm+Ashish+Kumar;I+am+a+MERN+stack+Developer;%E2%99%A5+Android+and+Web;%E2%99%A5+CP)](https://git.io/typing-svg)
 
-
-**About Me**
-<hr/>
+<h2>About Me ✨</h2>
 
 - 👋 Hi, I’m Ashish Kumar
 - 👀 I’m interested in programming as well as developing.
 - :open_book: pre-final year Undergraduate at NIT, manipur
+- 🤝 Open to collaborate on any Web and Android Project
+- 💌 Just drop a mail at :- ashish1222001@gmail.com
 
 
 
