@@ -1,9 +1,10 @@
 <img src="https://image.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg" style="alignSelf:'center'"/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
 
 - 👋 Hi, I’m Ashish Kumar
 - 👀 I’m interested in programming as well as developing.
-- 🌱 Currently working at EasyWebes.
 
 
 
