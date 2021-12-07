@@ -4,6 +4,8 @@
 
 
 **About Me**
+<hr/>
+
 - 👋 Hi, I’m Ashish Kumar
 - 👀 I’m interested in programming as well as developing.
 - :open_book: pre-final year Undergraduate at NIT, manipur
